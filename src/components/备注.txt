@@ -1,0 +1,1 @@
+组件Xbanner.vue和组件Xbanner2.vue都可以实现首页轮播图效果
